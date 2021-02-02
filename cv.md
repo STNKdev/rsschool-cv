@@ -16,3 +16,15 @@ In 2020, I completed the Frontend Technology development course at the training 
 
 I follow updates and new frontend tricks in Telegram channels, read Habr.  
 I like to see how other sites work under the hood.
+
+### Skills:
+- **JavaScript (ES5, ES6, ES7, ES8)**
+- **ReactJS**
+- HTML5
+- CSS3
+- SASS
+- Webpack
+
+**Tools:**
+- Git
+- WebStorm
