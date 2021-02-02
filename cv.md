@@ -1,1 +1,2 @@
-# [rsschool-cv](https://stnkdev.github.io/rsschool-cv/cv)
+# [Aleksandr Sytnik](https://stnkdev.github.io/rsschool-cv/cv)
+
