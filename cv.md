@@ -2,6 +2,7 @@
 
 ### Contacts:
 **E-mail:** <aleksandr.stnk@gmail.com>
+**Discord:** <Aleksandr Sytnik #1879>
 
 ### About me:
 Automated of routine tasks using programming (JS, Python) while working as a purchasing specialist. I continue to engage in self-education, developing in the direction of frontend development. I am always ready for a constructive dialogue.  
