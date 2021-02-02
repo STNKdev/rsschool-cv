@@ -25,6 +25,34 @@ I like to see how other sites work under the hood.
 - SASS
 - Webpack
 
-**Tools:**
+    **Tools:**
 - Git
 - WebStorm
+
+### Example:
+    const factorial = (n) => {
+        if (n < 0 || n > 12) {
+            throw new RangeError();
+        }
+        if (n === 0 || n === 1) {
+            return 1;
+        }
+        return n * factorial(n - 1);
+    }
+
+### Experience:
+| Project | Link |
+| ------ | ------ |
+| Excel JS | <https://github.com/STNKdev/simple-excel> |
+| Find This Movie | <https://github.com/STNKdev/find-this-movie> |
+| Simple Chat | <https://github.com/STNKdev/simple-chat-rooms> |
+| TODO React | <https://github.com/STNKdev/react-hooks-todos> |
+
+### Education:
+- **2021** RS Schools Frontend and ReactJS course
+- **2020** Frontend Technology Development - WorldSkills
+- **2020** [Udemy course React-Redux](https://www.udemy.com/course/pro-react-redux/)
+- **2018** Self-education frontend and Computer Science
+
+### Level language:
+English **A1**
