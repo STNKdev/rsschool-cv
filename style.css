@@ -63,11 +63,32 @@ select {
  padding: 1rem 0.5rem;
 }
 
+.main section p {
+  padding: 0.75rem 1rem;
+}
+
 .list {
   padding-left: 2rem;
 }
 
-.main-about {}
+.main-about,
+.main-skills,
+.main-example,
+.main-experience,
+.main-education {
+  margin-bottom: 1.5rem;
+  padding-bottom: 1rem;
+  border-bottom: 1px solid #000000;
+}
+
+.table {
+  border-collapse: collapse;
+}
+
+.table-cell {
+  padding: 5px;
+  border: 1px solid #000000;
+}
 
 .footer {
   text-align: center;

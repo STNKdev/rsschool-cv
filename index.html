@@ -26,6 +26,7 @@
     </header>
     <main class="main">
         <section class="main-about">
+            <h2>About me:</h2>
             <p>Automated of routine tasks using programming (JS, Python) while working as a purchasing specialist. I continue to engage in self-education, developing in the direction of frontend development. I am always ready for a constructive dialogue.</p>
             <p>In addition to the main work that was conducted on the company's own website, I used my skills and made the following scripts:</p>
             <ul class="list">
@@ -39,6 +40,7 @@
             <p>I like to see how other sites work under the hood.</p>
         </section>
         <section class="main-skills">
+            <h2>Skills:</h2>
             <ul class="list">
                 <li>
                     <strong>JavaScript (ES5, ES6, ES7, ES8)</strong>
@@ -51,11 +53,65 @@
                 <li>SASS</li>
                 <li>Webpack</li>
             </ul>
+            <p>Tools:</p>
+            <ul class="list">
+                <li>Git</li>
+                <li>WebStorm</li>
+            </ul>
         </section>
-        <section class="main-example"></section>
-        <section class="main-experience"></section>
-        <section class="main-education"></section>
-        <section class="main-level"></section>
+        <section class="main-example">
+            <h2>Example code:</h2>
+            <pre>
+              const factorial = (n) => {
+                if (n < 0 || n > 12) {
+                  throw new RangeError();
+                }
+                if (n === 0 || n === 1) {
+                  return 1;
+                }
+                return n * factorial(n - 1);
+              }
+            </pre>
+            <p>Also you watch example code on my <a href="https://github.com/STNKdev?tab=repositories">GitHub</a></p>
+        </section>
+        <section class="main-experience">
+            <h2>Experience:</h2>
+            <table class="table">
+                <tr>
+                    <th class="table-cell">Project</th>
+                    <th class="table-cell">Link</th>
+                </tr>
+                <tr>
+                    <td class="table-cell">Excel JS</td>
+                    <td class="table-cell"><a href="https://github.com/STNKdev/simple-excel">https://github.com/STNKdev/simple-excel</a></td>
+                </tr>
+                <tr>
+                    <td class="table-cell">Find This Movie</td>
+                    <td class="table-cell"><a href="https://github.com/STNKdev/find-this-movie">https://github.com/STNKdev/find-this-movie</a></td>
+                </tr>
+                <tr>
+                    <td class="table-cell">Simple Chat</td>
+                    <td class="table-cell"><a href="https://github.com/STNKdev/simple-chat-rooms">https://github.com/STNKdev/simple-chat-rooms</a></td>
+                </tr>
+                <tr>
+                    <td class="table-cell">TODO React</td>
+                    <td class="table-cell"><a href="https://github.com/STNKdev/react-hooks-todos">https://github.com/STNKdev/react-hooks-todos</a></td>
+                </tr>
+            </table>
+        </section>
+        <section class="main-education">
+            <h2>Education:</h2>
+            <ul class="list">
+                <li><b>2021</b> RS Schools Frontend and ReactJS course</li>
+                <li><b>2020</b> Frontend Technology Development - WorldSkills</li>
+                <li><b>2020</b> Udemy course React-Redux</li>
+                <li><b>2018</b> Self-education frontend and Computer Science</li>
+            </ul>
+        </section>
+        <section class="main-level">
+            <h2>Level language:</h2>
+            <p>English - A1</p>
+        </section>
     </main>
     <footer class="footer">2021</footer>
   </section>
