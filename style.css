@@ -41,6 +41,11 @@ select {
   padding-left: 2rem;
 }
 
+.list > li > mark {
+  font-weight: bold;
+  background-color: #fff425;
+}
+
 .header {
   display: flex;
   flex-direction: column;
